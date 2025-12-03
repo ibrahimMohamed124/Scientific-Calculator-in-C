@@ -55,3 +55,16 @@ Both pages maintain clean spacing, fixed button sizes, and consistent UI behavio
 
 ## 🏗️ Project Structure
 
+---
+
+## 🚀 Build & Run
+
+### **Prerequisites**
+
+Ensure GTK 3 is installed:
+
+#### On Ubuntu / Debian
+
+```bash
+sudo apt install libgtk-3-dev
+
